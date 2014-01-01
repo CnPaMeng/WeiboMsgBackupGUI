@@ -8,7 +8,15 @@
 开始
 -----------
 
-拷贝仓库, `git clone git@github.com:CnPaMeng/WeiboMsgBackupGUI.git`, 或者下载[最新版本](https://github.com/CnPaMeng/WeiboMsgBackupGUI/archive/master.zip).
+### 获取代码
+
+拷贝仓库, `git clone git@github.com:CnPaMeng/WeiboMsgBackupGUI.git`, 
+
+或者下载[最新版本](https://github.com/CnPaMeng/WeiboMsgBackupGUI/archive/master.zip).
+
+### 获取可执行文件
+
+可以前往[爬盟网站](http://www.cnpameng.com/)“微博下载神器”栏进行下载
 
 
 采集字段说明
