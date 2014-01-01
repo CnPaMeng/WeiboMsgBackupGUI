@@ -57,6 +57,16 @@ pameng.cn@gmail.com
 
 **PrettyDad**
 
++ https://github.com/liqiang-ICT
+
+**pl8787**
+
++ https://github.com/pl8787
+
+**qiuyongqin**
+
+**huxiao**
+
 
 
 作者
