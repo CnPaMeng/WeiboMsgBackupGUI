@@ -22,6 +22,10 @@
 采集字段说明
 -----------
 
+参见本项目[wiki](https://github.com/CnPaMeng/WeiboMsgBackupGUI/wiki/采集字段说明)
+
+或
+
 参见[爬盟网站](http://www.cnpameng.com/)“爬盟须知”栏
 
 
