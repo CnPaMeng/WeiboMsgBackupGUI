@@ -65,7 +65,7 @@ pameng.cn@gmail.com
 作者
 ----------
 
-[CnPaMeng](http://www.cnpameng.com/)
+[中国爬盟](http://www.cnpameng.com/)
 
 + [Zoe]()
 + [Trace]()
