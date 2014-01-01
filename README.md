@@ -49,30 +49,24 @@ pameng.cn@gmail.com
 开发人员
 ----------
 
-**Zoe**
+[Zoe]()
 
-**Trace**
+[Trace]()
 
-**Thz**
+[Thz]()
 
-**PrettyDad**
+[PrettyDad](https://github.com/liqiang-ICT)
 
-+ https://github.com/liqiang-ICT
+[pl8787](https://github.com/pl8787)
 
-**pl8787**
+[qiuyongqin]()
 
-+ https://github.com/pl8787
-
-**qiuyongqin**
-
-**huxiao**
+[huxiao]()
 
 
 
 作者
 -------
 
-**CnPaMeng**
-
-+ http://www.cnpameng.com/
+[CnPaMeng](http://www.cnpameng.com/)
 
