@@ -49,24 +49,21 @@ pameng.cn@gmail.com
 开发人员
 ----------
 
-[Zoe]()
+开发者可以通过Eclipse+PyDev构建工程，进行调试与开发。
 
-[Trace]()
-
-[Thz]()
-
-[PrettyDad](https://github.com/liqiang-ICT)
-
-[pl8787](https://github.com/pl8787)
-
-[qiuyongqin]()
-
-[huxiao]()
 
 
 
 作者
--------
+----------
 
 [CnPaMeng](http://www.cnpameng.com/)
+
++ [Zoe]()
++ [Trace]()
++ [Thz]()
++ [PrettyDad](https://github.com/liqiang-ICT)
++ [pl8787](https://github.com/pl8787)
++ [qiuyongqin]()
++ [huxiao]()
 
